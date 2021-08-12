@@ -12,6 +12,10 @@ Created function that allows the input of any keyword (can also be hashtag) and 
 
 ## Sentiment Analysis
 Dataframe was created containing Tweets with "positive", "negative", and "neutral" sentiment. Created a function that spits out the count of how many Tweets are in each dataframe.
+
+![image](https://user-images.githubusercontent.com/79224741/129273314-ca09f10f-88ea-4e71-a057-8c7f9660d496.png)
+
+## Dataframe containing sentiment analysis
 ![image](https://user-images.githubusercontent.com/79224741/128447909-65eabce9-8977-45e0-b0d7-452dd8b79d69.png)
 
 ## Raw Tweets
