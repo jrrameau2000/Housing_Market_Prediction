@@ -58,6 +58,10 @@ After each tweet has been processed and cleaned for stopwords, a wordcloud is ge
 Understanding the links between multiple economic indicators and their influence on mortgage rates we used 8 datasets
 to create this model including Inflation(CPI), Changes in Mortgage Back Securities Prices, Avg Wages, the Fed Funds rate, 
 number of houses sold, Unemployment rates, and average adjustable and fixed rated mortgages. 
+![DL_Code](https://user-images.githubusercontent.com/78506291/129281775-9fc4dd1e-ac95-4465-b0cf-208cb5413248.PNG)
+![DL_Code2](https://user-images.githubusercontent.com/78506291/129281895-5417bd8a-7e4c-41b1-a525-c79473ef92ec.PNG)
+![DL_Code3](https://user-images.githubusercontent.com/78506291/129282024-6f5702f3-9d7d-4516-9d2f-2da6714fdd90.PNG)
+
 
 ## Inflation
 ![Inflation_df](https://user-images.githubusercontent.com/78506291/129278662-92913110-d544-4e80-a5e4-a5bf15997d96.PNG)
@@ -83,6 +87,8 @@ number of houses sold, Unemployment rates, and average adjustable and fixed rate
 
 ## Results
 ![DL_Results](https://user-images.githubusercontent.com/78506291/129279594-029a78bb-61c4-4c5c-9238-fe7d13ff21ee.PNG)
+![DL_df](https://user-images.githubusercontent.com/78506291/129282211-06c9f959-b565-4718-9cb3-0a05d282b3b3.PNG)
+
 
 ## Conclusion
 Although sentiment may say the US housing market is on the verge of a crash. The data says otherwise. With the Fed keeping 
