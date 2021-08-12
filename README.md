@@ -54,5 +54,40 @@ After each tweet has been processed and cleaned for stopwords, a wordcloud is ge
 
 ![image](https://user-images.githubusercontent.com/79435102/129275424-a659d574-cabf-4694-be02-a6116b07e3a7.png)
 
+## Deep Learning Model
+Understanding the links between multiple economic indicators and their influence on mortgage rates we used 8 datasets
+to create this model including Inflation(CPI), Changes in Mortgage Back Securities Prices, Avg Wages, the Fed Funds rate, 
+number of houses sold, Unemployment rates, and average adjustable and fixed rated mortgages. 
+
+## Inflation
+![Inflation_df](https://user-images.githubusercontent.com/78506291/129278662-92913110-d544-4e80-a5e4-a5bf15997d96.PNG)
+
+## Mortgage Backed Securities
+![MBS_df](https://user-images.githubusercontent.com/78506291/129279024-f78471e8-9b1c-450b-9c38-85a81aed247e.PNG)
+
+## Fed Funds Rate
+![fed_funds](https://user-images.githubusercontent.com/78506291/129279069-ccb83cc2-d14c-41c7-ba19-29e3bd05accf.PNG)
+
+## All Dataframes Combined
+![Library_data](https://user-images.githubusercontent.com/78506291/129279760-c11b5cdf-cbd2-4679-b636-ca3b8368cd01.PNG)
+![Combined_df](https://user-images.githubusercontent.com/78506291/129279318-ebb2c2ca-1263-4f1d-b87d-15de708c275b.PNG)
+
+## Relationship between Fixed and Adjustable Rate Mortgages
+![FvsA_df](https://user-images.githubusercontent.com/78506291/129279731-2e2323cc-b22e-498b-a5c3-f1772c1cee66.PNG)
+![FvsA](https://user-images.githubusercontent.com/78506291/129279705-6423043b-8238-48d4-93af-56496ca0572c.PNG)
+
+## Price to Interest Rate Relationship
+![PricevsInterest](https://user-images.githubusercontent.com/78506291/129279929-20286908-9c5d-40d8-9054-3b92ce04a03a.PNG)
+
+
+
+## Results
+![DL_Results](https://user-images.githubusercontent.com/78506291/129279594-029a78bb-61c4-4c5c-9238-fe7d13ff21ee.PNG)
+
+## Conclusion
+Although sentiment may say the US housing market is on the verge of a crash. The data says otherwise. With the Fed keeping 
+interest rates astronomically low, there is no reason to predict that prices will go down. Despite other economic indicators 
+including rising GDP, rising inflation, low unemployment, more government spending, and wages increasing the Federal Reserve 
+is intent on keeping interest low to keep both stock and housing markets on the rise. 
 
 
