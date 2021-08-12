@@ -58,27 +58,31 @@ After each tweet has been processed and cleaned for stopwords, a wordcloud is ge
 Understanding the links between multiple economic indicators and their influence on mortgage rates we used 8 datasets
 to create this model including Inflation(CPI), Changes in Mortgage Back Securities Prices, Avg Wages, the Fed Funds rate, 
 number of houses sold, Unemployment rates, and average adjustable and fixed rated mortgages. 
-![DL_Code](https://user-images.githubusercontent.com/78506291/129281775-9fc4dd1e-ac95-4465-b0cf-208cb5413248.PNG)
-![DL_Code2](https://user-images.githubusercontent.com/78506291/129281895-5417bd8a-7e4c-41b1-a525-c79473ef92ec.PNG)
-![DL_Code3](https://user-images.githubusercontent.com/78506291/129282024-6f5702f3-9d7d-4516-9d2f-2da6714fdd90.PNG)
+
+![DL_Code](https://user-images.githubusercontent.com/78506291/129281775-9fc4dd1e-ac95-4465-b0cf-208cb5413248.PNG) ![DL_Code2](https://user-images.githubusercontent.com/78506291/129281895-5417bd8a-7e4c-41b1-a525-c79473ef92ec.PNG) ![DL_Code3](https://user-images.githubusercontent.com/78506291/129282024-6f5702f3-9d7d-4516-9d2f-2da6714fdd90.PNG)
 
 
 ## Inflation
 ![Inflation_df](https://user-images.githubusercontent.com/78506291/129278662-92913110-d544-4e80-a5e4-a5bf15997d96.PNG)
 
+
 ## Mortgage Backed Securities
 ![MBS_df](https://user-images.githubusercontent.com/78506291/129279024-f78471e8-9b1c-450b-9c38-85a81aed247e.PNG)
 
+
 ## Fed Funds Rate
 ![fed_funds](https://user-images.githubusercontent.com/78506291/129279069-ccb83cc2-d14c-41c7-ba19-29e3bd05accf.PNG)
+
 
 ## All Dataframes Combined
 ![Library_data](https://user-images.githubusercontent.com/78506291/129279760-c11b5cdf-cbd2-4679-b636-ca3b8368cd01.PNG)
 ![Combined_df](https://user-images.githubusercontent.com/78506291/129279318-ebb2c2ca-1263-4f1d-b87d-15de708c275b.PNG)
 
+
 ## Relationship between Fixed and Adjustable Rate Mortgages
 ![FvsA_df](https://user-images.githubusercontent.com/78506291/129279731-2e2323cc-b22e-498b-a5c3-f1772c1cee66.PNG)
 ![FvsA](https://user-images.githubusercontent.com/78506291/129279705-6423043b-8238-48d4-93af-56496ca0572c.PNG)
+
 
 ## Price to Interest Rate Relationship
 ![PricevsInterest](https://user-images.githubusercontent.com/78506291/129279929-20286908-9c5d-40d8-9054-3b92ce04a03a.PNG)
