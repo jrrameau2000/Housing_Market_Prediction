@@ -27,10 +27,14 @@ Created a function that cleans tweets and removes stopwords
 ![image](https://user-images.githubusercontent.com/79224741/128603706-cf6b9d12-49c0-4870-b5ae-75f8b68b39ed.png)
 
 
-# Wordcloud
+## Wordcloud
 After each tweet has been processed and cleaned for stopwords, a wordcloud is generated containing words that showed up often. The goal of the wordcloud is to see what people say when a specific keyword is searched. 
 ![image](https://user-images.githubusercontent.com/79224741/128603774-fffd84fc-3d0a-40ff-a03b-c432531f670c.png)
 
+
+## Wordcloud #2
+This wordcloud was conducted a week later to see if their were common words that showedup.
+![image](https://user-images.githubusercontent.com/79224741/129273945-7ff4eefc-3648-46c6-85d0-d438875e30b0.png)
 
 ## Median Home Price
 ![image](https://user-images.githubusercontent.com/79435102/129270329-b80357db-4ac6-40d6-a3cf-c7ce17ed0477.png)
